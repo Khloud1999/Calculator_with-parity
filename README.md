@@ -11,6 +11,5 @@
                       LCD
                       Keypad.
 
+![image](https://user-images.githubusercontent.com/72269263/212218643-6d9444dc-05e4-4b82-9905-d94d1e2f01f9.png)
 
-
-![image](https://user-images.githubusercontent.com/72269263/212206903-f136fb07-881e-450b-a80f-1ba59c06d1ff.png)
