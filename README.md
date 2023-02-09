@@ -13,3 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/72269263/212218643-6d9444dc-05e4-4b82-9905-d94d1e2f01f9.png)
 
+
+
+
+- With STM32F401CC
+
+
+![CALC_WITH_PARITY](https://user-images.githubusercontent.com/72269263/217692054-15a8b23e-9302-4ae0-b881-0abba6be9d46.PNG)
